@@ -1,2 +1,2 @@
-# danbors-hand
+# danbor-hand
 Make a hand with dan-board
