@@ -1,2 +1,2 @@
-# danbor-hand
-Make a hand with dan-board
+# danbord-hand
+Make a hand with cardboard
